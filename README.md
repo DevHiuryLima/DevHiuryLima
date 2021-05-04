@@ -8,7 +8,7 @@
 
 [![Hiury's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHiuryLima&count_private=true&show_icons=true&theme=dark)](https://github.com/DevHiuryLima/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHiuryLima&theme=dark&layout=compact&)](https://github.com/DevHiuryLima/github-readme-stats)
 
-### Conect with me:
+### Connect with me:
 <div style="text-align: center;">
   <a href="linkedin.com/in/hiury-lima-67b479203" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Hiury Lima" height="30" width="40" style="max-width:100%;">
