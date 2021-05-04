@@ -2,7 +2,7 @@
 
 ### I'm Hiury Lima.
 
-- I live in :brazil:
+- I live in Brazil :brazil:
 - I'm 20 years old. 
 - I have been learning more about <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="20" width="20" style="max-width:100%;">
 
