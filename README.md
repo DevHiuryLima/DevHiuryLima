@@ -3,7 +3,7 @@
 ### I'm Hiury Lima.
 
 - I live in Brazil <img src="https://user-images.githubusercontent.com/69491885/139614755-ff952115-89e5-4ff7-a687-32ccafc7a295.png" alt="Bandeira do Brasil" height="20" width="20"/>
-- I'm 21 years old.
+- I'm 22 years old.
 - I'm work with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" height="20" width="20" />
 - I have been learning more about <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="20" width="20" style="max-width:100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="20" width="20" style="max-width:100%;">
 
