@@ -11,9 +11,10 @@
 [![Hiury's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHiuryLima&count_private=true&show_icons=true&theme=dark)](https://github.com/DevHiuryLima/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHiuryLima&theme=dark&layout=compact&)](https://github.com/DevHiuryLima/github-readme-stats)
 
 ### Connect with me:
-<a align="center" href="https://www.linkedin.com/in/devhiurylima/" target="_blank">
+<a align="center" href="https://www.linkedin.com/in/devhiurylima/" target="_blank" title="Linkedin">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Hiury Lima" height="30" width="40" style="max-width:100%;">
 </a>
-<a align="center" href="https://www.instagram.com/devhiurylima/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Linkedin Hiury Lima" height="30" width="40" style="max-width:100%;">
+
+<a align="center" href="https://www.instagram.com/devhiurylima/" target="_blank" title="Instagram">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Hiury Lima" height="30" width="40" style="max-width:100%;">
 </a>
